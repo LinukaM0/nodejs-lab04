@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-lab04",
+  "version": "1.0.0",
+  "description": "Nodejs lab04",
+  "homepage": "https://github.com/LinukaM0/nodejs-lab04#readme",
+  "bugs": {
+    "url": "https://github.com/LinukaM0/nodejs-lab04/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinukaM0/nodejs-lab04.git"
+  },
+  "license": "ISC",
+  "author": "linuka",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
