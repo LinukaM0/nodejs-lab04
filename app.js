@@ -4,7 +4,7 @@ const myPromise = new Promise((resolve, reject) => {
   if (condition) {
     resolve("Success! , hi there");
   } else {
-    reject("Failure!");
+    reject("Failure! , something went wrong");
   }
 });
 
